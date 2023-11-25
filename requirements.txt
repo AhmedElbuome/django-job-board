@@ -1,0 +1,16 @@
+asgiref==3.7.2
+distlib==0.3.7
+Django==4.2.7
+filelock==3.13.1
+platformdirs==3.11.0
+PyMonCtl==0.7
+pytube==15.0.0
+pywin32==306
+PyWinBox==0.6
+PyWinCtl==0.3
+setuptools==68.2.2
+sqlparse==0.4.4
+typing_extensions==4.8.0
+tzdata==2023.3
+virtualenv==20.24.6
+wheel==0.41.3

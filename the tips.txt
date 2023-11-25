@@ -1,0 +1,60 @@
+# Fifth lecture
+  
+1- add the app in settings.py
+2- create super user
+3- create job class
+4- create title field
+5- make migrate
+6- add class in admin.py
+
+# sixth lecture
+
+1- create job-type field (choices between full time and part time)
+2- create description field
+3- create published_at
+4- create vacancy field
+5- create salary field
+6- create experience field
+7- create  __str__ function
+
+# seventh lecture
+
+1- create category class
+2- create name field
+3- create category field in job class 
+4- create __str__ function in category class
+5- makemigrations
+6- make migrate
+7- add category class in admin.py
+
+# eighth lecture
+
+1- create job_list function in views's job
+2- create job_detail function in views's job
+3- create urls.py in views's job
+4- create path to job app in urls.py of project
+5- create path to job_list function
+6- create path to job_detail function
+
+# ninth lecture
+
+1- create templates folder in job app
+2- create job folder in templates 
+3- create job_list.html in job
+4- create job_detail.html in job
+5- return all job objects in job_list function
+6- make loop on jobs in job_list.html
+7- return job only in job_detail function
+
+# tenth lecture
+
+1- add staticfiles_dirs in settings.py
+2-  make import to settings and static in urls.py
+3- add two things in urls.py
+4- add media_url in settings.py
+5- add the templates
+6- conect the links by django
+
+# eleventh lecture
+
+1- 
