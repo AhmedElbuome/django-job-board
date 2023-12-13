@@ -1,33 +1,16 @@
-Job : 
-    - title
-    - location
-    - job type
-    - description
-    - published at
-    - Vacancy
-    - salary
-    - category
-    - experience 
-    
+Job : - title - location - job type - description - published at - Vacancy - salary - category - experience
 
-    - apply job 
+    - apply job
     - post job
 
-
-Blog : 
-    - title
-    - description 
-    - created_at
-    - category
-    - tags
-    - author
+Blog : - title - description - created_at - category - tags - author
 
     - search
     - comment
     - recent posts
 
 contact
-home
 
+home : -
 
-login 
+login
